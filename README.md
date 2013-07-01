@@ -3,7 +3,7 @@ Kohana-icecat
 
 This is a simple kohana-module for executing data from IceCat catalog. You can use it in your internet shop.
 
-You needed  for user login and password before? try to get it on http:\\icecat.biz
+You needed  for user login and password before? try to get it on http://icecat.biz
 
 
 

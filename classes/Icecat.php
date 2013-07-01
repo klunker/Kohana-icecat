@@ -1,7 +1,3 @@
-<?php
+<?php defined('SYSPATH') OR die('No direct script access.');
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-?>
+class Icecat extends Kohana_Icecat {}
